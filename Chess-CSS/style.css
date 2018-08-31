@@ -1,0 +1,32 @@
+
+table {
+    margin: auto;
+}
+
+table p {
+    visibility: hidden;
+}
+
+td {
+    width: 75px;
+    height: 75px;
+}
+
+
+.white-square {
+    background-color: white;
+}
+
+.black-square {
+    background-color: black;
+}
+
+.black-square p {
+    color: white;
+}
+
+td:hover {
+    color: rgba(255, 0, 0);
+    visibility: visible;
+}
+
