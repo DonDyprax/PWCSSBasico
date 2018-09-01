@@ -1,0 +1,44 @@
+
+table {
+    margin: 2% auto;
+}
+
+td {
+    width: 75px;
+    height: 75px;
+}
+
+
+.cell > p {
+    visibility: hidden;
+    margin: auto;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.white-square {
+    background-color: white;
+}
+
+.black-square {
+    background-color: black;
+}
+
+.black-square p {
+    color: white;
+}
+
+.cell {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.cell:hover {
+    background-color: rgba(255, 0, 0, 0.5)
+}
+
+.cell:hover > p {
+    visibility: visible;
+}
+
