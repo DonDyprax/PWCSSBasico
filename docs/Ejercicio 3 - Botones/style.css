@@ -1,0 +1,121 @@
+
+input[type="button"] {
+    border-radius: 6px;
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+.button-normal {
+    font-size: 1rem;
+    border: none;
+}
+
+.button-small {
+    font-size: 0.60rem;
+    border: none;
+}
+
+.button-large {
+    font-size: 2rem;
+    border: none;
+}
+
+.button-emerald {
+    background-color: #50C878;
+    color: white;
+    border: none;
+}
+
+.button-sky {
+    background-color: #87cefa;
+    color: white;
+    border: none;
+    
+}
+
+.button-amethyst {
+    background-color: #9966CC;
+    color: white;
+    border: none;
+}
+
+.button-asphalt {
+    background-color: #333333;
+    color: white;
+    border: none;
+}
+
+.button-topaz {
+    background-color: #FFC87C;
+    color: white;
+    border: none;
+}
+
+.button-ruby {
+    background-color: #E0115F;
+    color: white;
+    border: none;
+}
+
+.bordered-simple {
+    background-color: transparent;
+    border: 1px solid gray;
+    color: gray;
+}
+
+.bordered-emerald {
+    background-color: transparent;
+    border: 1px solid #50C878;
+    color: #50C878;
+}
+
+.bordered-sky {
+    background-color: transparent;
+    border: 1px solid #87cefa;
+    color: #87cefa;
+}
+
+.bordered-amethyst {
+    background-color: transparent;
+    border: 1px solid #9966CC;
+    color: #9966CC;
+}
+
+.bordered-asphalt {
+    background-color: transparent;
+    border: 1px solid #333333;
+    color: #333333;
+}
+
+.bordered-topaz {
+    background-color: transparent;
+    border: 1px solid #FFC87C;
+    color: #FFC87C;
+}
+
+.bordered-ruby {
+    background-color: transparent;
+    border: 1px solid #E0115F;
+    color: #E0115F;
+}
+
+.large-asphalt {
+    background-color: #333333;
+    color: white;
+    border: none;
+    font-size: 2rem;
+}
+
+.small-emerald {
+    background-color: #50C878;
+    color: white;
+    border: none;
+    font-size: 0.60rem;
+}
+
+.large-ruby {
+    background-color: transparent;
+    border: 2px solid #E0115F;
+    color: #E0115F;
+    font-size: 2rem;
+}
